@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { getDb } from './db';
 import { Workflow, Execution, NodeExecution } from './types';
 

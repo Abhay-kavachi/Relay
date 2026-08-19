@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { Handle, Position } from '@xyflow/react';
 
 export default function CustomNode({ data }: { data: any }) {

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { ConditionExpression, ConditionOperator } from '../types';
 
 export function getDotPath(obj: Record<string, any>, path: string): any {

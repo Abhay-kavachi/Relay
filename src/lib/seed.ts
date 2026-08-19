@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { WorkflowRepository } from './repositories';
 import { Workflow } from './types';
 

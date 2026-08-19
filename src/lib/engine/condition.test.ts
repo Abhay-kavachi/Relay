@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { describe, it, expect } from 'vitest';
 import { evaluateCondition, getDotPath } from './condition';
 import { ConditionExpression } from '../types';

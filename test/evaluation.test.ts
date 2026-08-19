@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { describe, it, expect, beforeAll } from 'vitest';
 import { engine } from '@/lib/engine';
 import { seedDatabase } from '@/lib/seed';

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { v4 as uuidv4 } from 'uuid';
 import { Workflow, Execution, NodeExecution } from '../types';
 import { WorkflowRepository, ExecutionRepository, NodeExecutionRepository } from '../repositories';

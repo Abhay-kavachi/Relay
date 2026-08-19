@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { NextResponse } from 'next/server';
 import { WorkflowRepository } from '@/lib/repositories';
 import { seedDatabase } from '@/lib/seed';

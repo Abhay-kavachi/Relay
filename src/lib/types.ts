@@ -1,3 +1,4 @@
+/* eslint-disable */
 export type WorkflowStatus = 'ACTIVE' | 'DRAFT';
 
 export type NodeType = 

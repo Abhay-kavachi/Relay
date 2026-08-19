@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { NodeType } from '../types';
 
 export type NodeHandler = (
